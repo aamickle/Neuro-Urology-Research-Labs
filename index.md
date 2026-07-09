@@ -1,7 +1,7 @@
 ---
 ---
 
-# aamickle's Website
+# NeuroUrology Labs
 
 Our research focuses on studying bladder function, with a particular emphasis on neuronal control. Studies include fundamental mechanisms underlying bladder sensory function and dysfunction, development of new theraptics to treat bladder dysfucntion, and development of new and improved diagnostic testing approaches.
 
