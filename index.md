@@ -3,7 +3,7 @@
 
 # aamickle's Website
 
-An engaging 1-3 sentence description of your lab.
+Our research focuses on studying bladder function, with a particular emphasis on neuronal control. Studies include fundamental mechanisms underlying bladder sensory function and dysfunction, development of new theraptics to treat bladder dysfucntion, and development of new and improved diagnostic testing approaches.
 
 {% include section.html %}
 
@@ -11,7 +11,7 @@ An engaging 1-3 sentence description of your lab.
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Take a look at our publications
 
 {%
   include button.html
@@ -34,7 +34,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Take a look at our growing list of projects
 
 {%
   include button.html
@@ -59,7 +59,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Learn more about our Team Members
+
 
 {%
   include button.html
