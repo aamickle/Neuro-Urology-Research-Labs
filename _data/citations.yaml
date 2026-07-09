@@ -1,209 +1,1333 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1016/j.patter.2026.101514
-  title: Scalable data harmonization for single-cell image-based profiling with CytoTable
+- id: doi:10.1016/j.eng.2026.03.020
+  title: A Stretchable Optogenetic Probe for Wireless Control of Bladder Nociception
   authors:
-  - Dave Bunten
-  - Jenna Tomkinson
-  - Erik Serrano
-  - Michael J. Lippincott
-  - Kenneth I. Brewer
-  - Vince Rubinetti
-  - Faisal Alquaddoomi
-  - Gregory P. Way
-  publisher: Patterns
-  date: '2026-05-01'
-  link: https://doi.org/hbvg3p
-  orcid: 0000-0002-4655-3773
+  - Janghoon Joo
+  - Hannah A. Anderson
+  - Wooseok Kim
+  - Shane H. Priester
+  - Bogeun Kim
+  - Firoj Alom
+  - Doyoung Kim
+  - Bhavana Talluri
+  - Hee Kyu Lee
+  - Joohoon Kang
+  - Geumbee Lee
+  - Jae-Young Yoo
+  - Aaron D. Mickle
+  - Sang Min Won
+  publisher: Engineering
+  date: '2026-04-01'
+  link: https://doi.org/hb3fqk
+  orcid: 0000-0002-6454-8038
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2025.06.19.660613
-  title: Scalable data harmonization for single-cell image-based profiling with CytoTable
+- id: doi:10.1038/s41598-025-18216-2
+  title: Contractions of ex-vivo mouse bladder driven by activation of channelrhodopsin-2
+    expressed in urothelial cells
   authors:
-  - Dave Bunten
-  - Jenna Tomkinson
-  - Erik Serrano
-  - Michael J. Lippincott
-  - Kenneth I. Brewer
-  - Vince Rubinetti
-  - Faisal Alquaddoomi
-  - Gregory P. Way
+  - Firoj Alom
+  - Kyle Joseph Ratcliff
+  - Bhavana Talluri
+  - Aaron D. Mickle
+  publisher: Scientific Reports
+  date: '2025-10-03'
+  link: https://doi.org/g95wqw
+  orcid: 0000-0002-6454-8038
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41467-025-55992-x
+  title: Liquid-based encapsulation for implantable bioelectronics across broad pH
+    environments
+  authors:
+  - He Sun
+  - Xiaoting Xue
+  - Gabriella L. Robilotto
+  - Xincheng Zhang
+  - ChangHee Son
+  - Xingchi Chen
+  - Yue Cao
+  - Kewang Nan
+  - Yiyuan Yang
+  - Gavin Fennell
+  - Jaewook Jung
+  - Yang Song
+  - Huijie Li
+  - Shao-Hao Lu
+  - Yizhou Liu
+  - Yi Li
+  - Weiyi Zhang
+  - Jie He
+  - Xueju Wang
+  - Yan Li
+  - Aaron D. Mickle
+  - Yi Zhang
+  publisher: Nature Communications
+  date: '2025-01-25'
+  link: https://doi.org/g9vzcn
+  orcid: 0000-0002-6454-8038
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1152/ajprenal.00204.2024
+  title: Role of local angiotensin II signaling in bladder function
+  authors:
+  - Hannah A. Anderson
+  - Gabriella L. Robilotto
+  - Aaron D. Mickle
+  publisher: American Journal of Physiology-Renal Physiology
+  date: '2024-11-01'
+  link: https://doi.org/g9vzcp
+  orcid: 0000-0002-6454-8038
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.7554/eLife.89767.2
+  title: Acute ampakines increase voiding function and coordination in a rat model
+    of SCI
+  authors:
+  - Sabhya Rana
+  - Firoj Alom
+  - Robert C Martinez
+  - David D Fuller
+  - Aaron D Mickle
+  publisher: eLife Sciences Publications, Ltd
+  date: '2024-02-19'
+  link: https://doi.org/g9vq9z
+  orcid: 0000-0002-6454-8038
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.7554/eLife.89767
+  title: Acute ampakines increase voiding function and coordination in a rat model
+    of SCI
+  authors:
+  - Sabhya Rana
+  - Firoj Alom
+  - Robert C Martinez
+  - David D Fuller
+  - Aaron D Mickle
+  publisher: eLife
+  date: '2024-03-07'
+  link: https://doi.org/g9vq92
+  orcid: 0000-0002-6454-8038
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s12894-024-01407-w
+  title: 'Hypertension and urologic chronic pelvic pain syndrome: An analysis of MAPP-I
+    data'
+  authors:
+  - Rosalynn R.Z. Conic
+  - Terrie Vasilopoulos
+  - Karthik Devulapally
+  - Rene Przkora
+  - Andrew Dubin
+  - Kimberly T. Sibille
+  - Aaron D. Mickle
+  publisher: BMC Urology
+  date: '2024-01-28'
+  link: https://doi.org/g9vq93
+  orcid: 0000-0002-6454-8038
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1152/ajprenal.00035.2023
+  title: Optogenetic urothelial cell stimulation induces bladder contractions and
+    pelvic nerve afferent firing
+  authors:
+  - Gabriella L. Robilotto
+  - Olivia J. Yang
+  - Firoj Alom
+  - Richard D. Johnson
+  - Aaron D. Mickle
+  publisher: American Journal of Physiology-Renal Physiology
+  date: '2023-08-01'
+  link: https://doi.org/g9vq95
+  orcid: 0000-0002-6454-8038
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/fnins.2023.1001007
+  title: Evaluating the transduction efficiency of systemically delivered AAV vectors
+    in the rat nervous system
+  authors:
+  - Olivia J. Yang
+  - Gabriella L. Robilotto
+  - Firoj Alom
+  - "Karla Alem\xE1n"
+  - Karthik Devulapally
+  - Abigail Morris
+  - Aaron D. Mickle
+  publisher: Frontiers in Neuroscience
+  date: '2023-01-23'
+  link: https://doi.org/g9vq97
+  orcid: 0000-0002-6454-8038
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ohx.2022.e00271
+  title: Open source timed pressure control hardware and software for delivery of
+    air mediated distensions in animal models
+  authors:
+  - Trishna Patel
+  - Jamie Hendren
+  - Nathan Lee
+  - Aaron D. Mickle
+  publisher: HardwareX
+  date: '2022-04-01'
+  link: https://doi.org/g9vrbc
+  orcid: 0000-0002-6454-8038
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/ejp.2017
+  title: Role of Src kinase in regulating protein kinase C mediated phosphorylation
+    of <scp>TRPV1</scp>
+  authors:
+  - Gabriella L. Robilotto
+  - Durga P. Mohapatra
+  - Andrew J. Shepherd
+  - Aaron D. Mickle
+  publisher: European Journal of Pain
+  date: '2022-08-04'
+  link: https://doi.org/g9vrbd
+  orcid: 0000-0002-6454-8038
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/luts.12365
+  title: Characterization of a method to study urodynamics and bladder nociception
+    in male and female mice
+  authors:
+  - Paulome Srivastava
+  - Henry H. Lai
+  - Aaron D. Mickle
+  publisher: 'LUTS: Lower Urinary Tract Symptoms'
+  date: '2020-11-17'
+  link: https://doi.org/g9vrbf
+  orcid: 0000-0002-6454-8038
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1126/sciadv.aaw5296
+  title: Battery-free, fully implantable optofluidic cuff system for wireless optogenetic
+    and pharmacological neuromodulation of peripheral nerves
+  authors:
+  - Yi Zhang
+  - Aaron D. Mickle
+  - Philipp Gutruf
+  - Lisa A. McIlvried
+  - Hexia Guo
+  - Yixin Wu
+  - Judith P. Golden
+  - Yeguang Xue
+  - Jose G. Grajales-Reyes
+  - Xueju Wang
+  - Siddharth Krishnan
+  - Yiwen Xie
+  - Dongsheng Peng
+  - Chun-Ju Su
+  - Fengyi Zhang
+  - Jonathan T. Reeder
+  - Sherri K. Vogt
+  - Yonggang Huang
+  - John A. Rogers
+  - Robert W. Gereau
+  publisher: Science Advances
+  date: '2019-07-05'
+  link: https://doi.org/gh64qd
+  orcid: 0000-0002-6454-8038
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41586-018-0823-6
+  title: A wireless closed-loop system for optogenetic peripheral neuromodulation
+  authors:
+  - Aaron D. Mickle
+  - Sang Min Won
+  - Kyung Nim Noh
+  - Jangyeol Yoon
+  - Kathleen W. Meacham
+  - Yeguang Xue
+  - Lisa A. McIlvried
+  - Bryan A. Copits
+  - Vijay K. Samineni
+  - Kaitlyn E. Crawford
+  - Do Hoon Kim
+  - Paulome Srivastava
+  - Bong Hoon Kim
+  - Seunghwan Min
+  - Young Shiuan
+  - Yeojeong Yun
+  - Maria A. Payne
+  - Jianpeng Zhang
+  - Hokyung Jang
+  - Yuhang Li
+  - H. Henry Lai
+  - Yonggang Huang
+  - Sung-Il Park
+  - Robert W. Gereau
+  - John A. Rogers
+  publisher: Nature
+  date: '2019-01-02'
+  link: https://doi.org/gfskgb
+  orcid: 0000-0002-6454-8038
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/ejp.1251
+  title: "Parathyroid hormone\u2010related peptide activates and modulates <scp>TRPV</scp>1\
+    \ channel in human <scp>DRG</scp> neurons"
+  authors:
+  - A.J. Shepherd
+  - A.D. Mickle
+  - L.A. McIlvried
+  - R.W. Gereau
+  - D.P. Mohapatra
+  publisher: European Journal of Pain
+  date: '2018-06-11'
+  link: https://doi.org/gfbjj6
+  orcid: 0000-0002-6454-8038
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1097/j.pain.0000000000001329
+  title: A bright future? Optogenetics in the periphery for pain research and therapy
+  authors:
+  - Aaron D. Mickle
+  - Robert W. Gereau
+  publisher: Pain
+  date: '2018-09-01'
+  link: https://doi.org/g9vrbj
+  orcid: 0000-0002-6454-8038
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1073/pnas.1721815115
+  title: Macrophage angiotensin II type 2 receptor triggers neuropathic pain
+  authors:
+  - Andrew J. Shepherd
+  - Aaron D. Mickle
+  - Judith P. Golden
+  - Madison R. Mack
+  - Carmen M. Halabi
+  - Annette D. de Kloet
+  - Vijay K. Samineni
+  - Brian S. Kim
+  - Eric G. Krause
+  - Robert W. Gereau
+  - Durga P. Mohapatra
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2018-08-06'
+  link: https://doi.org/gd452d
+  orcid: 0000-0002-6454-8038
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1523/JNEUROSCI.3542-17.2018
+  title: Angiotensin II Triggers Peripheral Macrophage-to-Sensory Neuron Redox Crosstalk
+    to Elicit Pain
+  authors:
+  - Andrew J. Shepherd
+  - Bryan A. Copits
+  - Aaron D. Mickle
+  - "P\xE1ll Karlsson"
+  - Suraj Kadunganattil
+  - Simon Haroutounian
+  - Satya M. Tadinada
+  - Annette D. de Kloet
+  - Manouela V. Valtcheva
+  - Lisa A. McIlvried
+  - Tayler D. Sheahan
+  - Sanjay Jain
+  - Pradipta R. Ray
+  - Yuriy M. Usachev
+  - Gregory Dussor
+  - Eric G. Krause
+  - Theodore J. Price
+  - Robert W. Gereau
+  - Durga P. Mohapatra
+  publisher: The Journal of Neuroscience
+  date: '2018-07-05'
+  link: https://doi.org/gd28xf
+  orcid: 0000-0002-6454-8038
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/smll.201702479
+  title: "Miniaturized, Battery\u2010Free Optofluidic Systems with Potential for Wireless\
+    \ Pharmacology and Optogenetics"
+  authors:
+  - Kyung Nim Noh
+  - Sung Il Park
+  - Raza Qazi
+  - Zhanan Zou
+  - Aaron D. Mickle
+  - "Jose G. Grajales\u2010Reyes"
+  - "Kyung\u2010In Jang"
+  - Robert W. Gereau
+  - Jianliang Xiao
+  - John A. Rogers
+  - "Jae\u2010Woong Jeong"
+  publisher: Small
+  date: '2017-12-07'
+  link: https://doi.org/gcndc4
+  orcid: 0000-0002-6454-8038
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/adfm.201801819
+  title: Natural Wax for Transient Electronics
+  authors:
+  - Sang Min Won
+  - Jahyun Koo
+  - Kaitlyn E. Crawford
+  - Aaron D. Mickle
+  - Yeguang Xue
+  - Seunghwan Min
+  - Lisa A. McIlvried
+  - Ying Yan
+  - Sung Bong Kim
+  - Seung Min Lee
+  - Bong Hoon Kim
+  - Hokyung Jang
+  - Matthew R. MacEwan
+  - Yonggang Huang
+  - Robert W. Gereau
+  - John A. Rogers
+  publisher: Advanced Functional Materials
+  date: '2018-06-25'
+  link: https://doi.org/gk9ksc
+  orcid: 0000-0002-6454-8038
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/fncel.2018.00038
+  title: Parathyroid Hormone-Related Peptide Elicits Peripheral TRPV1-dependent Mechanical
+    Hypersensitivity
+  authors:
+  - Andrew J. Shepherd
+  - Aaron D. Mickle
+  - Suraj Kadunganattil
+  - Hongzhen Hu
+  - Durga P. Mohapatra
+  publisher: Frontiers in Cellular Neuroscience
+  date: '2018-02-15'
+  link: https://doi.org/gc4p4m
+  orcid: 0000-0002-6454-8038
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.neuron.2016.12.031
+  title: Flexible Near-Field Wireless Optoelectronics as Subdermal Implants for Broad
+    Applications in Optogenetics
+  authors:
+  - Gunchul Shin
+  - Adrian M. Gomez
+  - Ream Al-Hasani
+  - Yu Ra Jeong
+  - Jeonghyun Kim
+  - Zhaoqian Xie
+  - Anthony Banks
+  - Seung Min Lee
+  - Sang Youn Han
+  - Chul Jong Yoo
+  - Jong-Lam Lee
+  - Seung Hee Lee
+  - Jonas Kurniawan
+  - Jacob Tureb
+  - Zhongzhu Guo
+  - Jangyeol Yoon
+  - Sung-Il Park
+  - Sang Yun Bang
+  - Yoonho Nam
+  - Marie C. Walicki
+  - Vijay K. Samineni
+  - Aaron D. Mickle
+  - Kunhyuk Lee
+  - Seung Yun Heo
+  - Jordan G. McCall
+  - Taisong Pan
+  - Liang Wang
+  - Xue Feng
+  - Tae-il Kim
+  - Jong Kyu Kim
+  - Yuhang Li
+  - Yonggang Huang
+  - Robert W. Gereau
+  - Jeong Sook Ha
+  - Michael R. Bruchas
+  - John A. Rogers
+  publisher: Neuron
+  date: '2017-02-01'
+  link: https://doi.org/f9tj7x
+  orcid: 0000-0002-6454-8038
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1097/j.pain.0000000000000968
+  title: Fully implantable, battery-free wireless optoelectronic devices for spinal
+    optogenetics
+  authors:
+  - Vijay K. Samineni
+  - Jangyeol Yoon
+  - Kaitlyn E. Crawford
+  - Yu Ra Jeong
+  - Kajanna C McKenzie
+  - Gunchul Shin
+  - Zhaoqian Xie
+  - Saranya S. Sundaram
+  - Yuhang Li
+  - Min Young Yang
+  - Jeonghyun Kim
+  - Di Wu
+  - Yeguang Xue
+  - Xue Feng
+  - Yonggang Huang
+  - Aaron D. Mickle
+  - Anthony Banks
+  - Jeong Sook Ha
+  - Judith P. Golden
+  - John A. Rogers
+  - Robert W. Gereau
+  publisher: Pain
+  date: '2017-06-08'
+  link: https://doi.org/gckt9f
+  orcid: 0000-0002-6454-8038
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/166546
+  title: Macrophage-to-sensory neuron crosstalk mediated by Angiotensin II type-2
+    receptor elicits neuropathic pain
+  authors:
+  - Andrew J. Shepherd
+  - Aaron D. Mickle
+  - Bryan A. Copits
+  - "P\xE1ll Karlsson"
+  - Suraj Kadunganattil
+  - Judith P. Golden
+  - Satya M. Tadinada
+  - Madison R. Mack
+  - Simon Haroutounian
+  - Annette D. de Kloet
+  - Vijay K. Samineni
+  - Manouela V. Valtcheva
+  - Lisa A. McIlvried
+  - Tayler D. Sheahan
+  - Sanjay Jain
+  - Pradipta R. Ray
+  - Yuriy M. Usachev
+  - Gregory Dussor
+  - Brian S. Kim
+  - Eric G. Krause
+  - Theodore J. Price
+  - Robert W. Gereau
+  - Durga P. Mohapatra
   publisher: openRxiv
-  date: '2025-06-25'
-  link: https://doi.org/g9rfr3
-  orcid: 0000-0002-4655-3773
+  date: '2017-08-25'
+  link: https://doi.org/gkvs9t
+  orcid: 0000-0002-6454-8038
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.1038/s41598-017-16129-3
+  title: Optogenetic silencing of nociceptive primary afferents reduces evoked and
+    ongoing bladder pain
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
+  - Vijay K. Samineni
+  - Aaron D. Mickle
+  - Jangyeol Yoon
+  - Jose G. Grajales-Reyes
+  - Melanie Y. Pullen
+  - Kaitlyn E. Crawford
+  - Kyung Nim Noh
+  - Graydon B. Gereau
+  - Sherri K. Vogt
+  - H. Henry Lai
+  - John A. Rogers
+  - Robert W. Gereau
+  publisher: Scientific Reports
+  date: '2017-11-20'
+  link: https://doi.org/gcnpdv
+  orcid: 0000-0002-6454-8038
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
+- id: doi:10.3390/ph9040072
+  title: 'Nociceptive TRP Channels: Sensory Detectors and Transducers in Multiple
+    Pain Pathologies'
   authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
-  publisher: openRxiv
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
+  - Aaron Mickle
+  - Andrew Shepherd
+  - Durga Mohapatra
+  publisher: Pharmaceuticals
+  date: '2016-11-14'
+  link: https://doi.org/g9vrbp
+  orcid: 0000-0002-6454-8038
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.1073/pnas.1611769113
+  title: Stretchable multichannel antennas in soft wireless optoelectronic implants
+    for optogenetics
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  - Sung Il Park
+  - Gunchul Shin
+  - Jordan G. McCall
+  - Ream Al-Hasani
+  - Aaron Norris
+  - Li Xia
+  - Daniel S. Brenner
+  - Kyung Nim Noh
+  - Sang Yun Bang
+  - Dionnet L. Bhatti
+  - Kyung-In Jang
+  - Seung-Kyun Kang
+  - Aaron D. Mickle
+  - Gregory Dussor
+  - Theodore J. Price
+  - Robert W. Gereau
+  - Michael R. Bruchas
+  - John A. Rogers
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2016-11-28'
+  link: https://doi.org/f9dzt3
+  orcid: 0000-0002-6454-8038
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.1097/j.pain.0000000000000224
+  title: "Induction of thermal and mechanical hypersensitivity by parathyroid hormone\u2013\
+    related peptide through upregulation of TRPV1 function and trafficking"
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: openRxiv
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  - Aaron D. Mickle
+  - Andrew J. Shepherd
+  - Lipin Loo
+  - Durga P. Mohapatra
+  publisher: Pain
+  date: '2015-09-01'
+  link: https://doi.org/f7qfzs
+  orcid: 0000-0002-6454-8038
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: doi:10.1016/j.ejphar.2014.09.034
+  title: NMDA receptor mediates chronic visceral pain induced by neonatal noxious
+    somatic stimulation
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
+  - Adrian Miranda
+  - Aaron Mickle
+  - Mitchell Bruckert
+  - Pradeep Kannampalli
+  - Banani Banerjee
+  - Jyoti N. Sengupta
+  publisher: European Journal of Pharmacology
+  date: '2014-12-01'
+  link: https://doi.org/f6sk72
+  orcid: 0000-0002-6454-8038
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
+- id: doi:10.1016/bs.pmbts.2015.01.002
+  title: Sensory TRP Channels
   authors:
-  - Faisal S Alquaddoomi
-  - Joseph T Burke
-  - Lo Sosinski
-  - David A Mayer
-  - Evan P Brenner
-  - Samuel Z Chen
-  - Jacob D Krol
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: openRxiv
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
+  - Aaron D. Mickle
+  - Andrew J. Shepherd
+  - Durga P. Mohapatra
+  publisher: Progress in Molecular Biology and Translational Science
+  date: '2015-01-01'
+  link: https://doi.org/gs9w6m
+  orcid: 0000-0002-6454-8038
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.1161/HYPERTENSIONAHA.114.03553
+  title: "Interference With Peroxisome Proliferator-Activated Receptor-\u03B3 in Vascular\
+    \ Smooth Muscle Causes Baroreflex Impairment and Autonomic Dysfunction"
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - Giulianna R. Borges
+  - Donald A. Morgan
+  - Pimonrat Ketsawatsomkron
+  - Aaron D. Mickle
+  - Anthony P. Thompson
+  - Martin D. Cassell
+  - Durga P. Mohapatra
+  - Kamal Rahmouni
+  - Curt D. Sigmund
+  publisher: Hypertension
+  date: '2014-09-01'
+  link: https://doi.org/g9vrbr
+  orcid: 0000-0002-6454-8038
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.neuropharm.2013.12.006
+  title: Visceral analgesic effect of 5-HT4 receptor agonist in rats involves the
+    rostroventral medulla (RVM)
+  authors:
+  - Jyoti N. Sengupta
+  - Aaron Mickle
+  - Pradeep Kannampalli
+  - Russell Spruell
+  - John McRorie
+  - Reza Shaker
+  - Adrian Miranda
+  publisher: Neuropharmacology
+  date: '2014-04-01'
+  link: https://doi.org/f5wp52
+  orcid: 0000-0002-6454-8038
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1523/JNEUROSCI.3029-12.2012
+  title: Distinct Modifications in Kv2.1 Channel via Chemokine Receptor CXCR4 Regulate
+    Neuronal Survival-Death Dynamics
+  authors:
+  - Andrew J. Shepherd
+  - Lipin Loo
+  - Raeesa P. Gupte
+  - Aaron D. Mickle
+  - Durga P. Mohapatra
+  publisher: The Journal of Neuroscience
+  date: '2012-12-05'
+  link: https://doi.org/f4j6hv
+  orcid: 0000-0002-6454-8038
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.neuroscience.2012.05.030
+  title: Pronociceptive effect of 5-HT1A receptor agonist on visceral pain involves
+    spinal N-methyl-d-aspartate (NMDA) receptor
+  authors:
+  - A. Mickle
+  - P. Kannampalli
+  - M. Bruckert
+  - A. Miranda
+  - B. Banerjee
+  - J.N. Sengupta
+  publisher: Neuroscience
+  date: '2012-09-01'
+  link: https://doi.org/g9vrbs
+  orcid: 0000-0002-6454-8038
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1523/JNEUROSCI.1330-12.2012
+  title: "The C-Type Natriuretic Peptide Induces Thermal Hyperalgesia through a Noncanonical\
+    \ G\u03B2\u03B3-dependent Modulation of TRPV1 Channel"
+  authors:
+  - Lipin Loo
+  - Andrew J. Shepherd
+  - Aaron D. Mickle
+  - "Ram\xF3n A. Lorca"
+  - Leonid P. Shutov
+  - Yuriy M. Usachev
+  - Durga P. Mohapatra
+  publisher: The Journal of Neuroscience
+  date: '2012-08-29'
+  link: https://doi.org/f37zp4
+  orcid: 0000-0002-6454-8038
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/j.1365-2982.2011.01724.x
+  title: 'Neonatal cystitis-induced colonic hypersensitivity in adult rats: a model
+    of viscero-visceral convergence'
+  authors:
+  - A. Miranda
+  - A. Mickle
+  - J. Schmidt
+  - Z. Zhang
+  - R. Shaker
+  - B. Banerjee
+  - J. N. Sengupta
+  publisher: Neurogastroenterology &amp; Motility
+  date: '2011-05-18'
+  link: https://doi.org/c6nkf9
+  orcid: 0000-0002-6454-8038
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.pain.2010.03.030
+  title: 'Antinociceptive effects of melatonin in a rat model of post-inflammatory
+    visceral hyperalgesia: A centrally mediated process'
+  authors:
+  - Aaron Mickle
+  - Manu Sood
+  - Zhihong Zhang
+  - Golbon Shahmohammadi
+  - Jyoti N. Sengupta
+  - Adrian Miranda
+  publisher: Pain
+  date: '2010-06-01'
+  link: https://doi.org/b44dd6
+  orcid: 0000-0002-6454-8038
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.neuroscience.2009.05.042
+  title: Altered mechanosensitive properties of vagal afferent fibers innervating
+    the stomach following gastric surgery in rats
+  authors:
+  - A. Miranda
+  - A. Mickle
+  - B. Medda
+  - Z. Zhang
+  - R.J. Phillips
+  - N. Tipnis
+  - T.L. Powley
+  - R. Shaker
+  - J.N. Sengupta
+  publisher: Neuroscience
+  date: '2009-09-01'
+  link: https://doi.org/c4z273
+  orcid: 0000-0002-6454-8038
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.cont.2026.102473
+  title: 'The LURN urinary urgency and lifestyle wearable tracker (ULTra) study: Design
+    and feasibility'
+  authors:
+  - Catherine S. Bradley
+  - James A. Hokanson
+  - Shelby L. Francis
+  - Brian Bieber
+  - Deepika Laddu
+  - Cindy L. Amundsen
+  - C. Emi Bretschneider
+  - J. Quentin Clemens
+  - Sarah Collins
+  - Kimberly Kenton
+  - H. Henry Lai
+  - Victor P. Andreev
+  - Alexander P. Glaser
+  - Brian T. Helfand
+  - Calvin Andrews
+  - John Graff
+  - Ziya Kirkali
+  - Karl J. Kreder
+  publisher: Continence
+  date: '2026-09-01'
+  link: https://doi.org/hb9xg9
+  orcid: 0000-0002-0560-4503
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.cont.2026.102320
+  title: 'Lessons learned from conducting a multi-center lower urinary tract physiology
+    study: the LURN experience'
+  authors:
+  - Claire C. Yang
+  - James A. Hokanson
+  - Anna C. Kirby
+  - Brenda W. Gillespie
+  - H. Henry Lai
+  - Karl J. Kreder
+  - C. Emi Bretschneider
+  - Ziya Kirkali
+  - John O.L. Delancey
+  publisher: Continence
+  date: '2026-03-01'
+  link: https://doi.org/hb9xhb
+  orcid: 0000-0002-0560-4503
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/jsxmed/qdaf063
+  title: 'Sexual function in women with bothersome lower urinary tract symptoms: findings
+    from the symptoms of lower urinary tract dysfunction research network (LURN) cohort
+    study'
+  authors:
+  - C Emi Bretschneider
+  - Caroline Smerdon
+  - Brian Bieber
+  - Nathan Goodrich
+  - James Griffith
+  - H Henry Lai
+  - James A Hokanson
+  - Anna C Kirby
+  - Abigail Smith
+  - Magaly Guerrero
+  - Sreya Gutta
+  - Kathryn E Flynn
+  - Karen John
+  - Catherine S Bradley
+  publisher: The Journal of Sexual Medicine
+  date: '2025-04-24'
+  link: https://doi.org/hb9xhc
+  orcid: 0000-0002-0560-4503
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/nau.70038
+  title: "Expanded Physiological Testing of the Lower Urinary Tract in Asymptomatic\
+    \ Women and Those With Urgency Urinary Incontinence: Findings From the LURN\u2010\
+    Organ Study"
+  authors:
+  - James A. Hokanson
+  - John O. L. DeLancey
+  - Anna C. Kirby
+  - Brenda Gillespie
+  - H. Henry Lai
+  - Karl J. Kreder
+  - C. Emi Bretschneider
+  - Nick Slavik
+  - Calvin Andrews
+  - Victor Andreev
+  - Linda Black
+  - Sarah Richardson
+  - Kimberly Kenton
+  - Ziya Kirkali
+  - Claire C. Yang
+  publisher: Neurourology and Urodynamics
+  date: '2025-03-31'
+  link: https://doi.org/hb9xhd
+  orcid: 0000-0002-0560-4503
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1152/ajprenal.00209.2024
+  title: Faster bladder filling in rats reduces detrusor overactivity but worsens
+    (i.e., decreases) bladder compliance
+  authors:
+  - Wei He
+  - Nick Slavik
+  - Jacob Braun
+  - Farshad Samadifam
+  - James A. Hokanson
+  publisher: American Journal of Physiology-Renal Physiology
+  date: '2024-12-01'
+  link: https://doi.org/hb9xhf
+  orcid: 0000-0002-0560-4503
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/nau.25562
+  title: Predicting success using response after lead implantation with sacral neuromodulation
+    for urgency incontinence
+  authors:
+  - Whitney K. Hendrickson
+  - Chong Zhang
+  - James A. Hokanson
+  - Ingrid E. Nygaard
+  - Angela P. Presson
+  publisher: Neurourology and Urodynamics
+  date: '2024-07-29'
+  link: https://doi.org/hbshdw
+  orcid: 0000-0002-0560-4503
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/fampra/cmae035
+  title: 'Developing a urinary incontinence primary care pathway: a mixed methods
+    study'
+  authors:
+  - Marie C Luebke
+  - Joan M Neuner
+  - Joanna Balza
+  - Emily R W Davidson
+  - James A Hokanson
+  - Sarah Marowski
+  - "Robert Corey O\u2019Connor"
+  - Emily Schmitt
+  - Aaron N Winn
+  - Kathryn E Flynn
+  publisher: Family Practice
+  date: '2024-07-19'
+  link: https://doi.org/hb9xhg
+  orcid: 0000-0002-0560-4503
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1097/ju.0000000000004022
+  title: 'Structural Changes in Brain White Matter Tracts Associated With Overactive
+    Bladder Revealed by Diffusion Tensor Magnetic Resonance Imaging: Findings From
+    a Symptoms of Lower Urinary Tract Dysfunction Research Network Cross-Sectional
+    Case-Control Study'
+  authors:
+  - H. Henry Lai
+  - Jerrel Rutlin
+  - Abigail R. Smith
+  - Margaret E. Helmuth
+  - James A. Hokanson
+  - Claire C. Yang
+  - J. Quentin Clemens
+  - Vincent A. Magnotta
+  - C. Emi Bretschneider
+  - Kimberly Kenton
+  - John O. L. DeLancey
+  - Karen John
+  - Ziya Kirkali
+  - Joshua S. Shimony
+  publisher: Journal of Urology
+  date: '2024-08-01'
+  link: https://doi.org/hb9xhh
+  orcid: 0000-0002-0560-4503
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1152/ajprenal.00123.2023
+  title: Pathways and parameters of sacral neuromodulation in rats
+  authors:
+  - James A. Hokanson
+  - Christopher L. Langdale
+  - Warren M. Grill
+  publisher: American Journal of Physiology-Renal Physiology
+  date: '2023-12-01'
+  link: https://doi.org/g7257x
+  orcid: 0000-0002-0560-4503
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1097/spv.0000000000001427
+  title: 'National Urogynecology Research Agenda: A Path Forward for Advancing the
+    Treatment and Management of Pelvic Floor Disorders'
+  authors:
+  - Gena C. Dunivan
+  - Mary F. Ackenbom
+  - Marianna Alperin
+  - Jennifer T. Anger
+  - Danielle D. Antosh
+  - Adil E. Bharucha
+  - Lori A. Birder
+  - Sarah S. Boyd
+  - Megan S. Bradley
+  - Elizabeth H. Brehman
+  - Luiz G. O. Brito
+  - Heidi W. Brown
+  - Oluwateniola Brown
+  - Lindsey A. Burnett
+  - Lauren E. Caldwell
+  - Charelle M. Carter-Brooks
+  - Christopher J. Chermanksy
+  - Sara B. Cichowski
+  - Kathleen A. Connell
+  - John O. L. DeLancey
+  - Margot S. Damaser
+  - Nicole J. De Nisco
+  - Alexandra Dubinskaya
+  - Dianne H. Glass
+  - Marsha K. Guess
+  - Douglass S. Hale
+  - Johanna L. Hannan
+  - Rachel A. High
+  - James A. Hokanson
+  - Kristin M. Jacobs
+  - Robert S. Kelley
+  - Cassandra K. Kisby
+  - Elizabeth Kravitz
+  - Jerry L. Lowder
+  - Alayne D. Markland
+  - Melanie R. L. Meister
+  - Isuzu Meyer
+  - Pamela A. Moalli
+  - Indira U. Mysorekar
+  - Candace Y. Parker-Autry
+  - Holly E. Richter
+  - Rebecca G. Rogers
+  - Renee Rolston
+  - Rachel S. Rubin
+  - David Sheyn
+  - Julia K. Shinnick
+  - Nazema Y. Siddiqui
+  - Julie A. Suyama
+  - Maria I. Uloko
+  - Jens-Erik Walter
+  - Eva K. Welch
+  - Alan J. Wolfe
+  - Aldene Zeno
+  - Colleen D. McDermott
+  publisher: Urogynecology
+  date: '2023-11-01'
+  link: https://doi.org/hb9xhj
+  orcid: 0000-0002-0560-4503
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/nau.25036
+  title: 'Reply to: The case against urethral failure is not a critical factor in
+    female urinary incontinence. Now what? The integral theory system'
+  authors:
+  - John O. DeLancey
+  - James A. Hokanson
+  publisher: Neurourology and Urodynamics
+  date: '2022-09-01'
+  link: https://doi.org/hb9xhk
+  orcid: 0000-0002-0560-4503
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.urology.2021.08.040
+  title: 'Noncancerous Genitourinary Conditions as a Public Health Priority: Conceptualizing
+    the Hidden Burden'
+  authors:
+  - Sonya S. Brady
+  - Tamara G. Bavendam
+  - Christine K. Bradway
+  - Britt Conroy
+  - Annemarie Dowling-Castronovo
+  - Cynthia Neill Epperson
+  - Adonis K. Hijaz
+  - Ryan S. Hsi
+  - Karen Huss
+  - Michelle Kim
+  - Jason Lazar
+  - Richard K. Lee
+  - Christine K. Liu
+  - Christine N. Loizou
+  - Saadia Miran
+  - Lona Mody
+  - Jenna M. Norton
+  - William Stuart Reynolds
+  - Siobhan Sutcliffe
+  - Nicole Zhang
+  - James A. Hokanson
+  publisher: Urology
+  date: '2022-08-01'
+  link: https://doi.org/hb9xhm
+  orcid: 0000-0002-0560-4503
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/nau.24807
+  title: Advancing our understanding of the neural control of the female human urethra
+  authors:
+  - Claire C. Yang
+  - James A. Hokanson
+  - Janet R. Keast
+  publisher: Neurourology and Urodynamics
+  date: '2021-10-04'
+  link: https://doi.org/gtcv5x
+  orcid: 0000-0002-0560-4503
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.urology.2021.09.027
+  title: Machine Learning for Urodynamic Detection of Detrusor Overactivity
+  authors:
+  - Kevin T. Hobbs
+  - Nathaniel Choe
+  - Leonid I. Aksenov
+  - Lourdes Reyes
+  - Wilkins Aquino
+  - Jonathan C. Routh
+  - James A. Hokanson
+  publisher: Urology
+  date: '2022-01-01'
+  link: https://doi.org/g5x482
+  orcid: 0000-0002-0560-4503
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1152/ajprenal.00302.2020
+  title: Effects of intravesical prostaglandin E<sub>2</sub> on bladder function are
+    preserved in capsaicin-desensitized rats
+  authors:
+  - James A. Hokanson
+  - Christopher L. Langdale
+  - Philip H. Milliken
+  - Arun Sridhar
+  - Warren M. Grill
+  publisher: American Journal of Physiology-Renal Physiology
+  date: '2021-02-01'
+  link: https://doi.org/hb9xhn
+  orcid: 0000-0002-0560-4503
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1152/ajprenal.00068.2020
+  title: "Stimulation of the pelvic nerve increases bladder capacity in the PGE\n\
+    \                    <sub>2</sub>\n                    cat model of overactive\
+    \ bladder"
+  authors:
+  - Christopher L. Langdale
+  - James A. Hokanson
+  - Philip H. Milliken
+  - Arun Sridhar
+  - Warren M. Grill
+  publisher: American Journal of Physiology-Renal Physiology
+  date: '2020-06-01'
+  link: https://doi.org/hb9xhp
+  orcid: 0000-0002-0560-4503
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.31219/osf.io/fdrv4
+  title: A pilot study investigating the effects of intraurethral stimulation and
+    the potential to prevent urgency urinary incontinence episodes in women
+  authors:
+  - James A Hokanson
+  - Warren Grill
+  - Cindy Amundsen
+  publisher: Center for Open Science
+  date: '2019-07-03'
+  link: https://doi.org/hb9xhq
+  orcid: 0000-0002-0560-4503
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41598-018-31247-2
+  title: Effects of Synchronous Electrode Pulses on Neural Recruitment During Multichannel
+    Microstimulation
+  authors:
+  - James A. Hokanson
+  - Robert A. Gaunt
+  - Douglas J. Weber
+  publisher: Scientific Reports
+  date: '2018-08-30'
+  link: https://doi.org/gd75s9
+  orcid: 0000-0002-0560-4503
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TNSRE.2018.2854675
+  title: Detection of Bladder Contractions From the Activity of the External Urethral
+    Sphincter in Rats Using Sparse Regression
+  authors:
+  - Erica M. Rutter
+  - Christopher L. Langdale
+  - James A. Hokanson
+  - Franz Hamilton
+  - Hien Tran
+  - Warren M. Grill
+  - Kevin B. Flores
+  publisher: IEEE Transactions on Neural Systems and Rehabilitation Engineering
+  date: '2018-08-01'
+  link: https://doi.org/hb9xhr
+  orcid: 0000-0002-0560-4503
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1152/ajprenal.00373.2017
+  title: Stimulation of the sensory pudendal nerve increases bladder capacity in the
+    rat
+  authors:
+  - James A. Hokanson
+  - Christopher L. Langdale
+  - Arun Sridhar
+  - Warren M. Grill
+  publisher: American Journal of Physiology-Renal Physiology
+  date: '2018-04-01'
+  link: https://doi.org/gd28fg
+  orcid: 0000-0002-0560-4503
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41592-018-0112-1
+  title: An open-source platform for analyzing and sharing worm-behavior data
+  authors:
+  - Avelino Javer
+  - Michael Currie
+  - Chee Wai Lee
+  - Jim Hokanson
+  - Kezhi Li
+  - "C\xE9line N. Martineau"
+  - Eviatar Yemini
+  - Laura J. Grundy
+  - Chris Li
+  - "QueeLim Ch\u2019ng"
+  - William R. Schafer
+  - Ellen A. A. Nollen
+  - Rex Kerr
+  - "Andr\xE9 E. X. Brown"
+  publisher: Nature Methods
+  date: '2018-08-31'
+  link: https://doi.org/gk8dxp
+  orcid: 0000-0002-0560-4503
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1152/ajprenal.00270.2017
+  title: OAB without an overactive bladder in the acute prostaglandin E2 rat model
+  authors:
+  - James A. Hokanson
+  - Christopher L. Langdale
+  - Arun Sridhar
+  - Warren M. Grill
+  publisher: American Journal of Physiology-Renal Physiology
+  date: '2017-11-01'
+  link: https://doi.org/gcnk4q
+  orcid: 0000-0002-0560-4503
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1152/ajprenal.00116.2017
+  title: Stimulation of the pelvic nerve increases bladder capacity in the prostaglandin
+    E<sub>2</sub> rat model of overactive bladder
+  authors:
+  - Christopher L. Langdale
+  - James A. Hokanson
+  - Arun Sridhar
+  - Warren M. Grill
+  publisher: American Journal of Physiology-Renal Physiology
+  date: '2017-09-01'
+  link: https://doi.org/gbwmht
+  orcid: 0000-0002-0560-4503
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1142/9789813207158_0017
+  title: Neuroprosthetic Control of Lower Urinary Tract Function
+  authors:
+  - James A. Hokanson
+  - Cindy L. Amundsen
+  - Warren M. Grill
+  publisher: Series on Bioengineering and Biomedical Engineering
+  date: '2017-03-15'
+  link: https://doi.org/hb9xhs
+  orcid: 0000-0002-0560-4503
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/NER.2017.8008427
+  title: Real-time decoding of bladder pressure from pelvic nerve activity
+  authors:
+  - Carl Lubba
+  - Elie Mitrani
+  - Jim Hokanson
+  - Warren M. Grill
+  - Simon R. Schultz
+  publisher: 2017 8th International IEEE/EMBS Conference on Neural Engineering (NER)
+  date: '2017-05-01'
+  link: https://doi.org/hb9xht
+  orcid: 0000-0002-0560-4503
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/B978-1-78242-101-6.00006-9
+  title: Neuroprostheses for somatosensory function
+  authors:
+  - L.E. Fisher
+  - J.A. Hokanson
+  - D.J. Weber
+  publisher: Implantable Neuroprostheses for Restoring Function
+  date: '2015-01-01'
+  link: https://doi.org/hb9xhv
+  orcid: 0000-0002-0560-4503
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/fncom.2014.00137
+  title: 'OpenWorm: an open-science approach to modeling Caenorhabditis elegans'
+  authors:
+  - "Bal\xC3\xA1zs Szigeti"
+  - Padraig Gleeson
+  - Michael Vella
+  - Sergey Khayrulin
+  - Andrey Palyanov
+  - Jim Hokanson
+  - Michael Currie
+  - Matteo Cantarelli
+  - Giovanni Idili
+  - Stephen Larson
+  publisher: Frontiers in Computational Neuroscience
+  date: '2014-11-03'
+  link: https://doi.org/ggvh69
+  orcid: 0000-0002-0560-4503
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1088/1741-2560/8/5/056009
+  title: A computational model for estimating recruitment of primary afferent fibers
+    by intraneural stimulation in the dorsal root ganglia
+  authors:
+  - D J Bourbeau
+  - J A Hokanson
+  - J E Rubin
+  - D J Weber
+  publisher: Journal of Neural Engineering
+  date: '2011-08-16'
+  link: https://doi.org/bfvkrh
+  orcid: 0000-0002-0560-4503
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/IEMBS.2011.6091857
+  title: Effects of spatial and temporal parameters of primary afferent microstimulation
+    on neural responses evoked in primary somatosensory cortex of an anesthetized
+    cat
+  authors:
+  - J. A. Hokanson
+  - C. A. Ayers
+  - R. A. Gaunt
+  - T. M. Bruns
+  - D. J. Weber
+  publisher: 2011 Annual International Conference of the IEEE Engineering in Medicine
+    and Biology Society
+  date: '2011-08-01'
+  link: https://doi.org/cp4hs9
+  orcid: 0000-0002-0560-4503
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TNSRE.2011.2163145
+  title: 'Limb-State Information Encoded by Peripheral and Central Somatosensory Neurons:
+    Implications for an Afferent Interface'
+  authors:
+  - Douglas J. Weber
+  - Brian M. London
+  - James A. Hokanson
+  - Christopher A. Ayers
+  - Robert A. Gaunt
+  - Ricardo R. Torres
+  - Boubker Zaaimi
+  - Lee E. Miller
+  publisher: IEEE Transactions on Neural Systems and Rehabilitation Engineering
+  date: '2011-10-01'
+  link: https://doi.org/dwx359
+  orcid: 0000-0002-0560-4503
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1088/1741-2560/6/5/055009
+  title: 'Microstimulation of primary afferent neurons in the L7 dorsal root ganglia
+    using multielectrode arrays in anesthetized cats: thresholds and recruitment properties'
+  authors:
+  - R A Gaunt
+  - J A Hokanson
+  - D J Weber
+  publisher: Journal of Neural Engineering
+  date: '2009-09-01'
+  link: https://doi.org/cv7gtx
+  orcid: 0000-0002-0560-4503
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
@@ -219,9 +1343,6 @@
   publisher: PLOS Computational Biology
   date: '2020-12-04'
   link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -238,21 +1359,8 @@
   - open science
   - collaboration
   repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: openRxiv
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
