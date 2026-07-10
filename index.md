@@ -49,7 +49,7 @@ Take a look at our growing list of projects
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/red-viral-drg.png"
   link="projects"
   title="Our Projects"
   flip=true
@@ -75,7 +75,7 @@ Learn more about our Team Members
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/painting2024_5.jpg"
   link="team"
   title="Our Team"
   text=text
