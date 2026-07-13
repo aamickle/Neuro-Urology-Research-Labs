@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-We are involved in three Graduate School Programs. Please click on the link below for more details on how to apply for these programs. If you are already in the program and interested in rotating, please reach out directly to Aaron Mickle via email. 
+We are involved in three Graduate School Programs. Please click on the link below for more details on how to apply for these programs. If you are already in the program and interested in rotating, please reach out directly to Aaron Mickle or Jim Hokanson (BME only) via email. 
 
 Interdisciplinary Doctoral Program in Biomedical Sciences (IDP) at the Medical College of Wisconsin
 
