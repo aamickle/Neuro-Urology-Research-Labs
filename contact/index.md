@@ -9,11 +9,11 @@ nav:
 
 We are involved in three Graduate School Programs. Please click on the link below for more details on how to apply for these programs. If you are already in the program and interested in rotating, please reach out directly to Aaron Mickle or Jim Hokanson (BME only) via email. 
 
-Interdisciplinary Doctoral Program in Biomedical Sciences (IDP) at the Medical College of Wisconsin
+[Interdisciplinary Doctoral Program in Biomedical Sciences (IDP) at the Medical College of Wisconsin](https://www.mcw.edu/education/graduate-school/graduate-school-programs/Biomedical-sciences-phd)
 
-Neuroscience Doctoral Program (NDP) at the Medical College of Wisconsin
+[Neuroscience Doctoral Program (NDP) at the Medical College of Wisconsin](https://www.mcw.edu/education/graduate-school/graduate-school-programs/neuroscience-phd)
 
-The Marquette University and Medical College of Wisconsin Joint Department of Biomedical Engineering Graduate Program
+[The Marquette University and Medical College of Wisconsin Joint Department of Biomedical Engineering Graduate Program](https://mcw.marquette.edu/biomedical-engineering/graduate-studies/degree-programs.php)
 
 {%
   include button.html
