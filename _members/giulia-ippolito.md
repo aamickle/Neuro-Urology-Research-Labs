@@ -1,6 +1,6 @@
 ---
 name: Giulia Ippolito
-image: images/people/collab/ippolito.jpg
+image: images/people/collab/Ippolito.jpg
 role: collaborator
 affiliation: University of Michigan, Urology
 links:

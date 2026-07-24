@@ -1,6 +1,6 @@
 ---
 name: David Fuller
-image: images/people/collab/fuller.jpg
+image: images/people/collab/fuller.jpeg
 role: collaborator
 affiliation: University of Florida, Physical Therapy
 links:

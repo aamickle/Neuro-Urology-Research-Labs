@@ -1,6 +1,6 @@
 ---
 name: Philipp Gutruf, PhD
-image: images/people/collab/gutruf.jpg
+image: images/people/collab/Gutruf.jpg
 role: collaborator
 affiliation: University of Arizona, Biomedical Engineering
 links:

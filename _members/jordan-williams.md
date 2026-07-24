@@ -1,6 +1,6 @@
 ---
 name: Jordan Williams, MD, PhD
-image: images/people/collab/williams.jpg
+image: images/people/collab/Williams.jpg
 role: collaborator
 affiliation: Medical College of Wisconsin and Marquette, Biomedical Engineering
 links:

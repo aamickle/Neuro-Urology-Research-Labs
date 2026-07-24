@@ -1,6 +1,6 @@
 ---
 name: Claire Yang, MD
-image: images/people/collab/yang.jpg
+image: images/people/collab/Yang.jpg
 role: collaborator
 affiliation: University of Washington, Urology
 links:

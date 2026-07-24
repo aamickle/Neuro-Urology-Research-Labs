@@ -1,6 +1,6 @@
 ---
 name: Cate Bradley, MD, MSCE
-image: images/people/collab/bradley.jpg
+image: images/people/collab/Bradley.jpg
 role: collaborator
 affiliation: University of Iowa, Urogynecology
 links:

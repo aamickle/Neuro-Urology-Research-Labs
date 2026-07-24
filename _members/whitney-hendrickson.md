@@ -1,6 +1,6 @@
 ---
 name: Whitney Hendrickson
-image: images/people/collab/hendrickson.jpg
+image: images/people/collab/Hendrickson.jpg
 role: collaborator
 affiliation: University of Utah, Urogynecology
 links:

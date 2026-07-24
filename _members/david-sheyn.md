@@ -1,6 +1,6 @@
 ---
 name: David Sheyn
-image: images/people/collab/sheyn.jpg
+image: images/people/collab/Sheyn.jpg
 role: collaborator
 affiliation: University Hospital, Urogynecology
 links:

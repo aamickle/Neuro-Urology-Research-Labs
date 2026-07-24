@@ -1,6 +1,6 @@
 ---
 name: John DeLancey, MD
-image: images/people/collab/delancey.jpg
+image: images/people/collab/DeLancey.jpg
 role: collaborator
 affiliation: University of Michigan, Urogynecology
 links:

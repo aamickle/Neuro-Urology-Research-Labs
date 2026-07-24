@@ -1,6 +1,6 @@
 ---
 name: Nikki Lytle, PhD
-image: images/people/collab/lytle.jpg
+image: images/people/collab/Lytle.jpg
 role: collaborator
 affiliation: Medical College of Wisconsin, Surgical Oncology
 links:

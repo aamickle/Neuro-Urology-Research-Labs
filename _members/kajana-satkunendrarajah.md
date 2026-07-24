@@ -1,6 +1,6 @@
 ---
 name: Kajana Satkunendrarajah, PhD
-image: images/people/collab/satkunendrarajah.jpg
+image: images/people/collab/Satkunendrarajah.jpg
 role: collaborator
 affiliation: University of Miami, Biomedical Engineering
 links:

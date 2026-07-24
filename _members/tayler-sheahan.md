@@ -1,6 +1,6 @@
 ---
 name: Tayler Sheahan, PhD
-image: images/people/collab/sheahan.jpg
+image: images/people/collab/Sheahan.jpg
 role: collaborator
 affiliation: Medical College of Wisconsin, Cell Biology, Neurobiology and Anatomy
 links:

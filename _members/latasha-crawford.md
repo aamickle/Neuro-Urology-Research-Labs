@@ -1,6 +1,6 @@
 ---
 name: LaTasha Crawford, DVM, PhD
-image: images/people/collab/crawford.jpg
+image: images/people/collab/Crawford.jpg
 role: collaborator
 affiliation: University of Wisconsin Madison, Pathobiological Sciences
 links:
