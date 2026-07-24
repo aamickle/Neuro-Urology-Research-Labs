@@ -4,7 +4,8 @@ image: images/people/james-hokanson.jpg
 role: principal-investigator
 affiliation: Medical College of Wisconsin
 aliases:
-
+  James A. Hokanson
+links:
   home-page: https://mcw.marquette.edu/biomedical-engineering/directory/jim-hokanson.php
   orcid: https://orcid.org/0000-0002-0560-4503
 ---
