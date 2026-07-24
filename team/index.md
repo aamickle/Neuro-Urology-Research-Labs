@@ -10,8 +10,8 @@ Learn more about the team by clicking on their picture!
 
 {% include section.html %}
 
-## PI
-{% include list.html data="members" component="portrait" filter="role == 'principal-investigatori'" %}
+## Principal Investigators
+{% include list.html data="members" component="portrait" filter="role == 'principal-investigator'" %}
 
 ## Postdocs
 {% include list.html data="members" component="portrait" filter="role == 'postdoc'" %}
