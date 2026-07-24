@@ -1,6 +1,6 @@
 ---
 name: Zach Danziger, PhD
-image: images/people/collab/danziger.jpg
+image: images/people/collab/Danziger.jpg
 role: collaborator
 affiliation: Emory University, Rehabilitation Medicine, Biomedical Engineering
 links:
