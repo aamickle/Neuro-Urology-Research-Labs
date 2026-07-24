@@ -21,8 +21,9 @@
   date: '2026-04-01'
   link: https://doi.org/hb3fqk
   orcid: 0000-0002-6454-8038
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S209580992600192X-gr1.jpg
 - id: doi:10.1038/s41598-025-18216-2
   title: Contractions of ex-vivo mouse bladder driven by activation of channelrhodopsin-2
     expressed in urothelial cells
@@ -35,8 +36,9 @@
   date: '2025-10-03'
   link: https://doi.org/g95wqw
   orcid: 0000-0002-6454-8038
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/exvivopaper.png
 - id: doi:10.1038/s41467-025-55992-x
   title: Liquid-based encapsulation for implantable bioelectronics across broad pH
     environments
@@ -67,8 +69,9 @@
   date: '2025-01-25'
   link: https://doi.org/g9vzcn
   orcid: 0000-0002-6454-8038
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/32c3/11762702/a9513c402236/41467_2025_55992_Fig1_HTML.jpg
 - id: doi:10.1152/ajprenal.00204.2024
   title: Role of local angiotensin II signaling in bladder function
   authors:
@@ -79,8 +82,9 @@
   date: '2024-11-01'
   link: https://doi.org/g9vzcp
   orcid: 0000-0002-6454-8038
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://journals.physiology.org/cms/10.1152/ajprenal.00204.2024/asset/images/medium/ajprenal.00204.2024r01.png
 - id: doi:10.7554/eLife.89767.2
   title: Acute ampakines increase voiding function and coordination in a rat model
     of SCI
@@ -93,21 +97,6 @@
   publisher: eLife Sciences Publications, Ltd
   date: '2024-02-19'
   link: https://doi.org/g9vq9z
-  orcid: 0000-0002-6454-8038
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.7554/eLife.89767
-  title: Acute ampakines increase voiding function and coordination in a rat model
-    of SCI
-  authors:
-  - Sabhya Rana
-  - Firoj Alom
-  - Robert C Martinez
-  - David D Fuller
-  - Aaron D Mickle
-  publisher: eLife
-  date: '2024-03-07'
-  link: https://doi.org/g9vq92
   orcid: 0000-0002-6454-8038
   plugin: orcid.py
   file: orcid.yaml
@@ -138,11 +127,29 @@
   - Richard D. Johnson
   - Aaron D. Mickle
   publisher: American Journal of Physiology-Renal Physiology
-  date: '2023-08-01'
+  date: '2023-07-11'
   link: https://doi.org/g9vq95
   orcid: 0000-0002-6454-8038
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  description: Urothelial cells play a sensory role in bladder function. However,
+    it has been particularly challenging to study this communication as both sensory
+    neurons and urothelial cells express similar sensory receptors. Here we demonstrate
+    using an optogenetic technique, that specific urothelial stimulation alone resulted
+    in bladder contractions. This approach will have a long-lasting impact on how
+    we study urothelial-to-sensory neuron communication and the changes that occur
+    under disease conditions
+  image: https://journals.physiology.org/cms/10.1152/ajprenal.00035.2023/asset/images/medium/f-00035-2023r01.png
+  buttons:
+  - type: source
+    text: Manuscript Source
+    link: https://journals.physiology.org/doi/full/10.1152/ajprenal.00035.2023
+  - type: website
+    link: https://journals.physiology.org/doi/full/10.1152/ajprenal.00035.2023
+  tags:
+  - Urothelium
+  - Sensory
 - id: doi:10.3389/fnins.2023.1001007
   title: Evaluating the transduction efficiency of systemically delivered AAV vectors
     in the rat nervous system
@@ -158,8 +165,9 @@
   date: '2023-01-23'
   link: https://doi.org/g9vq97
   orcid: 0000-0002-6454-8038
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://images-provider.frontiersin.org/api/ipx/w=410&f=webp/https://www.frontiersin.org/files/Articles/1001007/fnins-17-1001007-HTML/image_m/fnins-17-1001007-g001.jpg
 - id: doi:10.1016/j.ohx.2022.e00271
   title: Open source timed pressure control hardware and software for delivery of
     air mediated distensions in animal models
@@ -172,8 +180,9 @@
   date: '2022-04-01'
   link: https://doi.org/g9vrbc
   orcid: 0000-0002-6454-8038
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2468067222000165-ga1.jpg
 - id: doi:10.1002/ejp.2017
   title: Role of Src kinase in regulating protein kinase C mediated phosphorylation
     of <scp>TRPV1</scp>
@@ -186,8 +195,9 @@
   date: '2022-08-04'
   link: https://doi.org/g9vrbd
   orcid: 0000-0002-6454-8038
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://onlinelibrary.wiley.com/cms/asset/20532efb-1815-4046-a4ca-a3b71fd54e20/ejp2017-fig-0005-m.jpg
 - id: doi:10.1111/luts.12365
   title: Characterization of a method to study urodynamics and bladder nociception
     in male and female mice
@@ -1330,61 +1340,18 @@
   orcid: 0000-0002-0560-4503
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
+- id: doi:10.7554/eLife.89767.3
+  title: Acute ampakines increase voiding function and coordination in a rat model
+    of SCI
   authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
-  authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
-  authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
+  - Sabhya Rana
+  - Firoj Alom
+  - Robert C Martinez
+  - David D Fuller
+  - Aaron D Mickle
   publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  date: '2024-03-07'
+  link: https://doi.org/g9vq9w
+  image: https://iiif.elifesciences.org/lax:89767%2Felife-89767-fig1-v1.tif/full/1234,/0/default.webp
   plugin: sources.py
   file: sources.yaml
