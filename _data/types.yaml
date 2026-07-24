@@ -18,13 +18,17 @@ undergrad:
   icon: fa-solid fa-user-graduate
   description: Undergraduate Student
 
-programmer:
+Staff:
   icon: fa-solid fa-code
-  description: Programmer
+  description: Staff
 
-mascot:
-  icon: fa-solid fa-dog
-  description: Mascot
+Alumni:
+  icon: fa-solid fa-battery-full
+  description: Alumni
+
+Collaborator:
+  icon: fa-solid fa-mug-hot
+  description: Collaborator
 
 # general
 
