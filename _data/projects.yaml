@@ -22,7 +22,7 @@
   subtitle: Open source timed pressure control hardware and software for delivery of air mediated distensions in animal models
   image: https://ars.els-cdn.com/content/image/1-s2.0-S2468067222000165-ga1.jpg
   link: https://www.sciencedirect.com/science/article/pii/S2468067222000165?via%3Dihub
-  description: Studying the visceral sensory component of peripheral nervous systems is difficult due to limited options for consistent, controlled stimulation. We present an open-source, Arduino-based system that controls a solenoid valve for timed pressure distensions, operable via TTL pulses or a graphical interface, making this technique more accessible and affordable for research.
+  description: An open-source, Arduino-based system that controls a solenoid valve for timed pressure distensions, operable via TTL pulses or a graphical interface.
   repo: greenelab/lab-website-template
   tags:
     - resource
