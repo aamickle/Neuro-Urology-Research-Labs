@@ -1,6 +1,6 @@
 ---
 name: Jim Hokanson
-image: aamickle/Neuro-Urology-Research-Labs/images/people/james-hokanson.jpg
+image: images/people/james-hokanson.jpg
 role: principal-investigator
 affiliation: Medical College of Wisconsin
 aliases:
