@@ -1,6 +1,6 @@
 ---
 name: Curt Sigmund, PhD
-image: images/people/collab/Sigmund.jpg
+image: images/people/collab/Sigmund.JPG
 role: collaborator
 affiliation: Medical College of Wisconsin, Physiology
 links:

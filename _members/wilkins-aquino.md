@@ -1,6 +1,6 @@
 ---
 name: Wilkins Aquino, PhD
-image: images/people/collab/Aquino.jpg
+image: images/people/collab/Wilkins.jpg
 role: collaborator
 affiliation: Duke University, Mechanical Engineering
 links:

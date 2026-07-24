@@ -1,5 +1,5 @@
 ---
-name: Tope Rude
+name: Tope Rude, MD
 image: images/people/collab/Rude.jpg
 role: collaborator
 affiliation: Stanford, Urology

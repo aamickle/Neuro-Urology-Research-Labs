@@ -1,6 +1,6 @@
 ---
 name: Jon Routh, MD
-image: images/people/collab/Routh.jpg
+image: images/people/collab/Routh.png
 role: collaborator
 affiliation: Duke University, Pediatric Urology
 links:
