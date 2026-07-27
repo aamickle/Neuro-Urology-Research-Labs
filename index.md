@@ -34,12 +34,12 @@ Take a look at our publications
 
 {% capture text %}
 
-Take a look at our growing list of projects
+Here are some healpful resouces, including software and hardware projects from the lab
 
 {%
   include button.html
-  link="projects"
-  text="Browse our projects"
+  link="resources"
+  text="Browse our resources"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
