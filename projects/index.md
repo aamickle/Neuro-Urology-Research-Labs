@@ -2,7 +2,7 @@
 title: Projects
 description: A look at some of our current and past projects.
 nav:
-  order: 6
+  order: 1
   tooltip: What we're working on
 ---
 
