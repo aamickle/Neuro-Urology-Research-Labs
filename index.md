@@ -26,7 +26,7 @@ Take a look at our publications
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/ihc-drg.jpg"
   link="research"
   title="Our Research"
   text=text
@@ -75,7 +75,7 @@ Learn more about our Team Members
 
 {%
   include feature.html
-  image="images/painting2024_5.jpg"
+  image="images/Group images/IMG_7300.jpg"
   link="team"
   title="Our Team"
   text=text
