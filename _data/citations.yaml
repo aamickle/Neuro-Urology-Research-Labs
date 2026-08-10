@@ -117,6 +117,21 @@
   orcid: 0000-0002-6454-8038
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.7554/eLife.89767.1
+  title: Acute ampakines increase voiding function and coordination in a rat model
+    of SCI
+  authors:
+  - Sabhya Rana
+  - Firoj Alom
+  - Robert C Martinez
+  - David D Fuller
+  - Aaron D Mickle
+  publisher: eLife Sciences Publications, Ltd
+  date: '2023-10-17'
+  link: https://doi.org/g9vq94
+  orcid: 0000-0002-6454-8038
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1152/ajprenal.00035.2023
   title: Optogenetic urothelial cell stimulation induces bladder contractions and
     pelvic nerve afferent firing
@@ -787,6 +802,26 @@
   publisher: Continence
   date: '2026-09-01'
   link: https://doi.org/hb9xg9
+  orcid: 0000-0002-0560-4503
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.64898/2026.07.29.26359239
+  title: Use of additional therapies after minimally invasive therapies among women
+    with overactive bladder
+  authors:
+  - Yu Zheng
+  - Mahir Maruf
+  - Franco A Simonato
+  - Whitney K Hendrickson
+  - David Sheyn
+  - James Hokanson
+  - Caitlin Seibel
+  - J Quentin Clemens
+  - Aruna Sarma
+  - Giulia M Ippolito
+  publisher: openRxiv
+  date: '2026-07-31'
+  link: https://doi.org/hcdc7c
   orcid: 0000-0002-0560-4503
   plugin: orcid.py
   file: orcid.yaml
