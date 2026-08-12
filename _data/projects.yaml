@@ -28,11 +28,11 @@
     - resource
     - publication
 
-- title: Cool Web App
-  subtitle: a subtitle
+- title: GUDMAP resources
+  subtitle: Tutorials and Resources developed by GUDMAP
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  link: https://strandlab.net/GUDMAP/
+  description: The GenitoUrinary Development Molecular Anatomy Project (GUDMAP) resources preserved by the Strand lab. 
   repo: greenelab/lab-website-template
   tags:
     - software
