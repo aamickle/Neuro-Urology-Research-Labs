@@ -3,7 +3,7 @@
 
 # NeuroUrology Labs
 
-Our research focuses on studying bladder function, with a particular emphasis on neuronal control. Studies include fundamental mechanisms underlying bladder sensory function and dysfunction, development of new theraptics to treat bladder dysfucntion, and development of new and improved diagnostic testing approaches.
+Our research focuses on studying bladder function, with a particular emphasis on neuronal control. Studies include fundamental mechanisms underlying bladder sensory function and dysfunction, the development of new therapeutics to treat bladder dysfunction, and the development of new and improved diagnostic testing approaches.
 
 {% include section.html %}
 
