@@ -30,18 +30,18 @@
 
 - title: GUDMAP resources
   subtitle: Tutorials and Resources developed by GUDMAP
-  image: images/photo.jpg
+  image: images/Iconimages/gudmap logo.jpg
   link: https://strandlab.net/GUDMAP/
   description: The GenitoUrinary Development Molecular Anatomy Project (GUDMAP) resources preserved by the Strand lab. 
   repo: greenelab/lab-website-template
   tags:
     - resource
 
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+- title: NIH Bioart REpository
+  subtitle: a repository of open source science vector images
+  image: images/Iconimages/HumanAnatomy0001.png
+  link: https://bioart.niaid.nih.gov/
+  description: Build figures, presentations, and illustrations with 2,000+ science and medical art visuals. This collection of free, high-quality, vectors, icons, and brushes have been created by professional illustrators.
   repo: greenelab/lab-website-template
   tags:
-    - software
+    - resouces
