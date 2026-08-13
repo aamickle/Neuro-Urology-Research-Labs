@@ -26,7 +26,7 @@ Take a look at our publications
 
 {%
   include feature.html
-  image="images/ihc-drg.jpg"
+  image="images/Iconimages/F_E_2 (1).png"
   link="research"
   title="Our Research"
   text=text
@@ -49,7 +49,7 @@ Here are some healpful resouces, including software and hardware projects from t
 
 {%
   include feature.html
-  image="images/red-viral-drg.png"
+  image="images/Iconimages/Co-culture (1).png"
   link="projects"
   title="Our Projects"
   flip=true
