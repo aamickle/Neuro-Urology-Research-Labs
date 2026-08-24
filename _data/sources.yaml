@@ -39,3 +39,39 @@
   image: images/exvivopaper.png
 - id: doi:10.1016/j.eng.2026.03.020
   image: https://ars.els-cdn.com/content/image/1-s2.0-S209580992600192X-gr1.jpg
+
+- id: doi:10.7554/eLife.89767.2
+  image: https://iiif.elifesciences.org/epp/89767%2Fv2%2Fcontent%2F542339v2_fig1.tif/full/max/0/default.jpg
+  # license: cc-by
+ 
+- id: doi:10.1186/s12894-024-01407-w
+  image: https://media.springernature.com/m685/springer-static/image/art%3A10.1186%2Fs12894-024-01407-w/MediaObjects/12894_2024_1407_Fig1_HTML.png
+  # license: OA (license not explicitly confirmed, but source is open access)
+ 
+- id: doi:10.7554/eLife.89767.1
+  image: https://iiif.elifesciences.org/epp/89767%2Fv1%2Fcontent%2F542339v1_fig1.tif/full/max/0/default.jpg
+  # license: cc-by
+ 
+- id: doi:10.1038/s41586-018-0823-6
+  image: https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-018-0823-6/MediaObjects/41586_2018_823_Fig1_HTML.png
+  # license: cc-by
+ 
+- id: doi:10.3389/fncel.2018.00038
+  image: https://www.frontiersin.org/api/ipx/w=1200&f=png/https://www.frontiersin.org/files/Articles/324706/fncel-12-00038-HTML/image_m/fncel-12-00038-g001.jpg
+  # license: OA (license not explicitly confirmed, but source is open access)
+ 
+- id: doi:10.1038/s41598-017-16129-3
+  image: https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-017-16129-3/MediaObjects/41598_2017_16129_Fig1_HTML.jpg
+  # license: OA (license not explicitly confirmed, but source is open access)
+ 
+- id: doi:10.3390/ph9040072
+  image: https://pub.mdpi-res.com/pharmaceuticals/pharmaceuticals-09-00072/article_deploy/html/images/pharmaceuticals-09-00072-g001-550.jpg?1569123160
+  # license: cc-by
+ 
+- id: doi:10.1038/s41598-018-31247-2
+  image: https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-018-31247-2/MediaObjects/41598_2018_31247_Fig1_HTML.png
+  # license: cc-by
+ 
+- id: doi:10.3389/fncom.2014.00137
+  image: https://www.frontiersin.org/api/ipx/w=1200&f=png/https://www.frontiersin.org/files/Articles/99282/fncom-08-00137-HTML/image_m/fncom-08-00137-g001.jpg
+  # license: cc-by
