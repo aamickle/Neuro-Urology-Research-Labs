@@ -3,7 +3,7 @@
 
 # NeuroUrology Labs
 
-Our research focuses on studying bladder function, with a particular emphasis on neuronal control. Studies include fundamental mechanisms underlying bladder sensory function and dysfunction, the development of new therapeutics to treat bladder dysfunction, and the development of new and improved diagnostic testing approaches.
+The NeuroUrology Labs, led by Drs. Jim Hokanson and Aaron Mickle, is based at the Medical College of Wisconsin in the departments of Biomedical Engineering, Physiology, Neurosurgery, and Urology. Our research focuses on studying bladder function, with a particular emphasis on neuronal control. Studies include fundamental mechanisms underlying bladder sensory function and dysfunction, the development of new therapeutics to treat bladder dysfunction, and the development of new and improved diagnostic testing approaches. Our lab is committed to developing innovative treatments for various bladder disorders, such as overactive bladder, bladder pain syndrome, and bladder dysfunction following spinal cord injury.
 
 {% include section.html %}
 

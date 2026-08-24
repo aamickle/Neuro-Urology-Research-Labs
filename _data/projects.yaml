@@ -1,25 +1,7 @@
-- title: Cool Dataset
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-
-- title: Cool Package
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
 
 - title: Device for contoling air distension for VMR
   subtitle: Open source timed pressure control hardware and software for delivery of air mediated distensions in animal models
+  group: featured
   image: https://ars.els-cdn.com/content/image/1-s2.0-S2468067222000165-ga1.jpg
   link: https://www.sciencedirect.com/science/article/pii/S2468067222000165?via%3Dihub
   description: An open-source, Arduino-based system that controls a solenoid valve for timed pressure distensions, operable via TTL pulses or a graphical interface.
@@ -37,7 +19,7 @@
   tags:
     - resource
 
-- title: NIH Bioart REpository
+- title: NIH Bioart Repository
   subtitle: a repository of open source science vector images
   image: images/Iconimages/HumanAnatomy0001.png
   link: https://bioart.niaid.nih.gov/
