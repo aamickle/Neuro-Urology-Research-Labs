@@ -1267,8 +1267,9 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1152/ajprenal.00116.2017
-  title: Stimulation of the pelvic nerve increases bladder capacity in the prostaglandin
-    E<sub>2</sub> rat model of overactive bladder
+  title: "Stimulation of the pelvic nerve increases bladder capacity in the prostaglandin\
+    \ E\n                    <sub>2</sub>\n                    rat model of overactive\
+    \ bladder"
   authors:
   - Christopher L. Langdale
   - James A. Hokanson
