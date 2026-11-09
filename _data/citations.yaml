@@ -829,8 +829,7 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.64898/2026.07.29.26359239
-  title: Use of additional therapies after minimally invasive therapies among women
-    with overactive bladder
+  title: Additional therapies after minimally invasive treatments in women with OAB
   authors:
   - Yu Zheng
   - Mahir Maruf
